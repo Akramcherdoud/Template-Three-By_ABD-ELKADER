@@ -1492,8 +1492,6 @@ li.dragon:hover .other-links {
   top: 0;
   right: 20px;
   writing-mode: vertical-lr;
-  -webkit-writing-mode: horizontal-tb;
-  -ms-writing-mode: horizontal-tb;
   background-color: #2196f3;
   padding: 15px 10px 30px;
   text-transform: capitalize;
