@@ -1491,7 +1491,7 @@ li.dragon:hover .other-links {
   position: absolute;
   top: 0;
   right: 20px;
-  writing-mode: vertical-lr;
+  writing-mode: vertical-lr !important;
   background-color: #2196f3;
   padding: 15px 10px 30px;
   text-transform: capitalize;
